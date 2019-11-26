@@ -11,7 +11,7 @@ app.use(function(req,res,next){
 	next();
 })
 app.use("/emps",router);
-
+app.use("/emps",router);
 app.listen(port,()=>{
     console.log("server started...");
 })
