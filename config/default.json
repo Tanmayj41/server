@@ -2,6 +2,6 @@
     "host":"localhost",
     "user":"root",
     "password":"manager",
-    "database":"dac",
+    "database":"temp",
     "port":9898
 }
